@@ -1,22 +1,10 @@
 ---
+showonlyimage: true
+image: "img/reviews/becoming-michelle-obama.jpg"
+date: "2019-08-23 20:56:07 ChST" 
 title: "Maybe You Should Talk to Someone by Lori Gottlieb"
-date: "2019-08-23 20:56:07 ChST"
-image: /images/blog/maybe.jpeg
-publishdate: 2019-08-23 20:56:07 ChST
-tags:
-- autobigraphy
-- biography
-- contemporary
-- therapist
-- medical
-- psychology
-comments: yes
+weight: 0
 ---
-
-# Chuck's Rating
-⭐️⭐️⭐️⭐️⭐️
-
-# Review 
 
 This book describes various therapy sessions as seen through the eyes of a practitioner. Lori’s train-of-thought, running commentary about her conversations with patients provides colour into their lived experiences and makes us empathise with their struggles. She interweaves into the storyline her own experiences and her own conversations with her therapist, creating a rich, autobiographical tapestry which reminds us how emotionally frail each of us can be. 
 
@@ -28,4 +16,7 @@ This book describes various therapy sessions as seen through the eyes of a pract
 
 # Beautiful Writing 
 
->Frankl’s book: “Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.” 
+>Frankl’s book: “Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.”
+
+# Stargazer
+⭐️⭐️⭐️⭐️⭐️

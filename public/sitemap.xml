@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/reviews/pioneers-david-mccullough/</loc>
+  </url>
+  
+  <url>
+    <loc>/reviews/maybe-lori-gottlieb/</loc>
+  </url>
+  
+  <url>
+    <loc>/reviews/becoming-michelle-obama/</loc>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
@@ -13,47 +25,11 @@
   </url>
   
   <url>
-    <loc>/tags/autobigraphy/</loc>
-  </url>
-  
-  <url>
-    <loc>/reviews/my-first-post/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/biography/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/contemporary/</loc>
-  </url>
-  
-  <url>
     <loc>/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/history/</loc>
-  </url>
-  
-  <url>
-    <loc>/reviews/second/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/medical/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/memoir/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/psychology/</loc>
   </url>
   
   <url>
@@ -70,18 +46,6 @@
   
   <url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/reviews/third/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/therapist/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/us-history/</loc>
   </url>
   
 </urlset>

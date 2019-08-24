@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quotes on Creased Paperbacks</title>
+    <link>/quotes/</link>
+    <description>Recent content in Quotes on Creased Paperbacks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    
+	<atom:link href="/quotes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quotes</title>
+      <link>/quotes/quotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/quotes/quotes/</guid>
+      <description>This section is for quotes from books I read but didn’t review, or quotes I found particularly meaningful.
+Wisdom  Almost everything will work again if you unplug it for a few minutes, including you.
+— Anne Lamott. “Almost Everything”.
+  The part I like most about Luke’s story is the lawyer who tries to trap Jesus with a trick question about who his neighbor is, so he can find a loophole in Jesus’ appeal to love thy neighbor.</description>
+    </item>
+    
+  </channel>
+</rss>

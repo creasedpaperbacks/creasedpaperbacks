@@ -11,7 +11,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "I review mainly non-fiction books, curate quotes, and summarise journal articles."
+  description = "I review mainly non-fiction books, summarise journal articles, and curate quotes."
   copyright = "&copy;2019 Chuck Chua"
   sidebarAbout = [
     "I'm an avid reader and this website summarises the margin notes, dog-ears and spine creases from my readings.",
@@ -43,7 +43,7 @@ googleAnalytics = ""
    # Nav links in the side bar
   [[params.navlinks]]
   name = "Book Reviews"
-  url = "books/"
+  url = "reviews/"
   home = true
   
   [[params.navlinks]]

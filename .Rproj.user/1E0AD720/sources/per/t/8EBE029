@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567753715382.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2624726985",
+    "id" : "8EBE029",
+    "lastKnownWriteTime" : 1567135154,
+    "last_content_update" : 1567135154,
+    "path" : "~/Documents/GitHub/creasedpaperbacks/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "71,20",
+        "scrollLine" : "60"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

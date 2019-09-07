@@ -1,0 +1,43 @@
+---
+showonlyimage: true
+image: "img/reviews/21-lessons-hariri.jpg" 
+date: "2019-09-07 14:49:15 +08" 
+title: "21 Lessons for the 21st Century"
+weight: -4
+slug: 21-lessons-hariri
+categories: []
+tags: []
+---
+
+This is a classic airport book. Yuval Noah Harari opines on 21 current developments, ranging from mediation to fake news to the future of work. These are fascinating and highly topical issues, and I’ve copied some of his thoughts here. 
+
+#### On work
+
+>In the past, machines competed with humans mainly in raw physical abilities, while humans retained an immense edge over machines in cognition. Hence as manual jobs in agriculture and industry were automated, new service jobs emerged that required the kind of cognitive skills only humans possessed: learning, analysing, communicating and above all understanding human emotions. However, AI is now beginning to outperform humans in more and more of these skills, including in the understanding of human emotions.2 We don’t know of any third field of activity – beyond the physical and the cognitive – where humans will always retain a secure edge.
+
+>If a forty-year-old ex-drone pilot takes three years to reinvent herself as a designer of virtual worlds, she may well need a lot of government help to sustain herself and her family during that time. (This kind of scheme is currently being pioneered in Scandinavia, where governments follow the motto ‘protect workers, not jobs’.)
+
+#### On terrorism
+
+>Terrorists resemble a fly that tries to destroy a china shop. The fly is so weak that it cannot move even a single teacup. So how does a fly destroy a china shop? It finds a bull, gets inside its ear, and starts buzzing. The bull goes wild with fear and anger, and destroys the china shop. This is what happened after 9/11, as Islamic fundamentalists incited the American bull to destroy the Middle Eastern china shop. Now they flourish in the wreckage. And there is no shortage of short-tempered bulls in the world.
+
+#### On immigration and culture
+
+>In order not to fall prey to well-established prejudices, let’s imagine two fictional countries: Coldia and Warmland. The two countries have many cultural differences, among which is their attitude to human relations and interpersonal conflict. Coldians are educated from infancy that if you get into conflict with somebody at school, at work, or even in your family, the best thing is to repress it. You should avoid shouting, expressing rage, or confronting the other person – angry outbursts just make things worse. It’s better to work with your own feelings, while allowing things to cool down. In the meantime, limit your contact with the person in question, and if contact is unavoidable, be terse but polite, and avoid sensitive issues.
+
+>Warmlanders, by contrast, are educated from infancy to externalise conflicts. If you find yourself in conflict, don’t let it simmer and don’t repress anything. Use the first opportunity to vent your emotions openly. It is OK to get angry, to shout, and to tell the other person exactly how you feel. This is the only way to work things through together, in an honest and direct way. One day of shouting can resolve a conflict that may otherwise fester for years, and though head-on confrontation is never pleasant, you will all feel much better afterwards.
+
+>Both these methods have their pros and cons, and it is hard to say that one is always better than the other. What might happen, though, when a Warmlander emigrates to Coldia, and gets a job in a Coldian firm?”
+
+>Whenever a conflict arises with a co-worker, the Warmlander bangs on the table and yells at the top of his voice, expecting that this will focus attention on the problem and help to resolve it quickly. Several years later a senior position falls vacant. Though the Warmlander has all the necessary qualifications, the boss prefers to give the promotion to a Coldian employee. When asked about it, she explains: ‘Yes, the Warmlander has many talents, but he also has a serious problem with human relations. He is hot-tempered, creates unnecessary tensions around him, and disturbs our corporate culture.’ The same fate befalls other Warmlander immigrants to Coldia. Most of them remain in junior positions, or fail to find any job at all, because managers presuppose that if they are Warmlanders, they would probably be hot-tempered and problematic employees. Since the Warmlanders never reach senior positions, it is difficult for them to change the Coldian corporate culture.
+
+>Much the same thing happens to Coldians who emigrate to Warmland. A Coldian starting to work in a Warmland firm quickly acquires the reputation of a snob or a cold fish, and makes few if any friends. People think that he is insincere, or that he lacks basic human-relation skills. He never advances to senior positions, and he therefore never gets the opportunity to change the corporate culture. Warmland managers conclude that most Coldians are unfriendly or shy, and prefer not to hire them to positions that require contact with customers or close cooperation with other employees.
+
+>Both these cases may seem to smack of racism. But in fact, they are not racist. They are ‘culturist’. People continue to conduct a heroic struggle against traditional racism without noticing that the battlefront has shifted. Traditional racism is waning, but the world is now full of ‘culturists’.
+
+Hariri's perspectives are refreshing and engaging, although it's hard to agree with all of his points. For example, his view of the future of work as one that is replaced by roots doing the heavy lifting may be true, but it strikes me as armchair rhetoric. I would have liked to see more rigour in his thinking.
+
+Likewise, the Warmland vs. Coldia conflict plays out every day in boardrooms across the world, even where people belong to the same culture. I feel like these tensions are driven more by individual than group identities and management has a role to play in ironing out these biases. The strength of the book is that it makes bold assertions about possible potholes we might face. Yuval’s characterisation of the present as problematic is right on point, but without offering any solutions to the issues, it’s hard to view the world - and this book - positively.
+
+#### Stargazer
+⭐️⭐️⭐️

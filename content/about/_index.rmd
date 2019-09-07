@@ -1,0 +1,10 @@
+---
+title: "About me"
+description: "about Chuck Chua"
+comments: false
+---
+![][1]
+
+I started reading extensively when I worked in the airforce. This was a job which was very stressful when things were going south, but chill for the most part. I developed a habit of reading during the downtimes and have been reading since.
+
+[1]: /img/about.png
